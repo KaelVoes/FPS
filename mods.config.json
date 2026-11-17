@@ -1,0 +1,7 @@
+{
+  "disabled": [
+    "my-mod.js",
+    "maps/map-one.js",
+    "custom-lobby.js"
+  ]
+}
